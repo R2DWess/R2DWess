@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.wezz.monitoriaucb.app-mergeDebugResources-61:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Guste\\.gradle\\caches\\transforms-3\\f4b477f8fc4f3659dc2e752adc13ef0d\\transformed\\appcompat-1.6.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

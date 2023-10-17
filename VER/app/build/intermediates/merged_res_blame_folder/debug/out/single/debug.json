@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "com.wezz.monitoriaucb.app-merged_res-63:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.wezz.monitoriaucb.app-main-65:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-merged_res-63:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.wezz.monitoriaucb.app-main-65:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-merged_res-63:/xml_data_extraction_rules.xml.flat",
+        "source": "com.wezz.monitoriaucb.app-main-65:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-merged_res-63:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.wezz.monitoriaucb.app-main-65:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-merged_res-63:/drawable_img3.png.flat",
+        "source": "com.wezz.monitoriaucb.app-main-65:/drawable/img3.png"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-merged_res-63:/drawable_img1.png.flat",
+        "source": "com.wezz.monitoriaucb.app-main-65:/drawable/img1.png"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-merged_res-63:/layout_activity_home.xml.flat",
+        "source": "com.wezz.monitoriaucb.app-main-65:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-merged_res-63:/layout_activity_monitores.xml.flat",
+        "source": "com.wezz.monitoriaucb.app-main-65:/layout/activity_monitores.xml"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-merged_res-63:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.wezz.monitoriaucb.app-main-65:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-merged_res-63:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.wezz.monitoriaucb.app-main-65:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-merged_res-63:/xml_backup_rules.xml.flat",
+        "source": "com.wezz.monitoriaucb.app-main-65:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-merged_res-63:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.wezz.monitoriaucb.app-main-65:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-merged_res-63:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.wezz.monitoriaucb.app-main-65:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-merged_res-63:/layout_activity_agendamento.xml.flat",
+        "source": "com.wezz.monitoriaucb.app-main-65:/layout/activity_agendamento.xml"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-merged_res-63:/drawable_baseline_arrow_right_alt_24.xml.flat",
+        "source": "com.wezz.monitoriaucb.app-main-65:/drawable/baseline_arrow_right_alt_24.xml"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-merged_res-63:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.wezz.monitoriaucb.app-main-65:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-merged_res-63:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.wezz.monitoriaucb.app-main-65:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-merged_res-63:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.wezz.monitoriaucb.app-main-65:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-merged_res-63:/layout_activity_main.xml.flat",
+        "source": "com.wezz.monitoriaucb.app-main-65:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-merged_res-63:/drawable_img4.png.flat",
+        "source": "com.wezz.monitoriaucb.app-main-65:/drawable/img4.png"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-merged_res-63:/drawable_img2.png.flat",
+        "source": "com.wezz.monitoriaucb.app-main-65:/drawable/img2.png"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-merged_res-63:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.wezz.monitoriaucb.app-main-65:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-merged_res-63:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.wezz.monitoriaucb.app-main-65:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-merged_res-63:/layout_servicos_item.xml.flat",
+        "source": "com.wezz.monitoriaucb.app-main-65:/layout/servicos_item.xml"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-merged_res-63:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.wezz.monitoriaucb.app-main-65:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-merged_res-63:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.wezz.monitoriaucb.app-main-65:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-merged_res-63:/drawable_logo.png.flat",
+        "source": "com.wezz.monitoriaucb.app-main-65:/drawable/logo.png"
+    }
+]

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605230333869",
+    "project_id": "ucbmonitoria-c3293",
+    "storage_bucket": "ucbmonitoria-c3293.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605230333869:android:db5b74b27cc4763fa72b24",
+        "android_client_info": {
+          "package_name": "com.wezz.monitoriaucb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY4gW5uuEYnBJmN7AwMHSFr-0nb_I23gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

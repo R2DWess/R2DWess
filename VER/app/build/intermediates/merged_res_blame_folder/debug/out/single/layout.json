@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.wezz.monitoriaucb.app-mergeDebugResources-62:/layout/activity_home.xml",
+        "source": "com.wezz.monitoriaucb.app-main-65:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-mergeDebugResources-62:/layout/activity_main.xml",
+        "source": "com.wezz.monitoriaucb.app-main-65:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-mergeDebugResources-62:/layout/servicos_item.xml",
+        "source": "com.wezz.monitoriaucb.app-main-65:/layout/servicos_item.xml"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-mergeDebugResources-62:/layout/activity_agendamento.xml",
+        "source": "com.wezz.monitoriaucb.app-main-65:/layout/activity_agendamento.xml"
+    },
+    {
+        "merged": "com.wezz.monitoriaucb.app-mergeDebugResources-62:/layout/activity_monitores.xml",
+        "source": "com.wezz.monitoriaucb.app-main-65:/layout/activity_monitores.xml"
+    }
+]
