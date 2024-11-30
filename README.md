@@ -7,7 +7,7 @@ I'm Wesley Lima, a Software Engineer from Brazil.
 * ☁️ I work on the cloud... a.k.a. AWS.
 
 ## 🔗 Connect with me
-[![LinkedIn](https://www.linkedin.com/in/wesley-lima-244405251/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-lima-244405251/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R2DWess)
 
 ## ⚡ Pilha
