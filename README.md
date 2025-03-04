@@ -1,5 +1,5 @@
-<p align="left">
-  <img src="https://iili.io/33PL0zu.webp" alt="Wesley Lima" width="480px">
+<p align="center">
+  <img src="https://iili.io/33iqbGR.webp" alt="Wesley Lima" width="800px">
 </p>
 
 # 👋 Hello!
