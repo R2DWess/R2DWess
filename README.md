@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://iili.io/33PL0zu.webp" alt="Wesley Lima">
+</p>
+
+
 # 👋 Hello!
 
 I'm Wesley Lima, a Software Engineer from Brazil. 
