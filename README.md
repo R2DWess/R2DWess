@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://iili.io/33PL0zu.webp" alt="Wesley Lima" width="480px">
 </p>
 
